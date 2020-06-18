@@ -190,6 +190,7 @@ Menu
   margin-bottom: 4rem;
   display: flex;
   justify-content: center;
+  flex-flow: row wrap;
 }
 .filter-btn {
   background: transparent;
